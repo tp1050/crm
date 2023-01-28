@@ -11,7 +11,7 @@ def index():
 def login():
     pass
 
-@app.route('
+@app.route('/addcontact')
 
 
 app.run(host="0.0.0.0",port=7018,debug=True)
