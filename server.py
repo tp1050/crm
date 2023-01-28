@@ -7,7 +7,7 @@ def index():
     return 'Dool'
 
 
-@app.route('login',method=['POST', 'GET'])
+@app.route('/login',methods=['POST', 'GET'])
 def login():
     pass
 
